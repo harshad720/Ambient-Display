@@ -18,7 +18,7 @@ Neopixel LED strips(4 strips)
 LED
 Wires
 
-(https://cloud.githubusercontent.com/assets/21200411/21118606/a4fe7e58-c08c-11e6-8295-c4b9d3912255.jpg)
+![whatsapp image 2016-12-12 at 3 36 49 pm](https://cloud.githubusercontent.com/assets/21200411/21118546/523ce722-c08c-11e6-8bc8-ead186e66326.jpeg)
 
 ## Tools
 Laser Cutter for engraving and cutting
@@ -53,7 +53,9 @@ RFID.h from pkourany(https://github.com/pkourany/RC522_RFID)
 
 ## Image and Video
 
-(https://cloud.githubusercontent.com/assets/21200411/21118546/523ce722-c08c-11e6-8bc8-ead186e66326.jpeg)
+
+
+![img_0986](https://cloud.githubusercontent.com/assets/21200411/21118606/a4fe7e58-c08c-11e6-8295-c4b9d3912255.jpg)
 
 https://youtu.be/1rxCyY9-Ofo
 
