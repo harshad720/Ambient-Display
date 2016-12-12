@@ -17,6 +17,9 @@ RFID Reader and Tags
 Neopixel LED strips(4 strips)
 LED
 Wires
+
+(https://cloud.githubusercontent.com/assets/21200411/21118606/a4fe7e58-c08c-11e6-8295-c4b9d3912255.jpg)
+
 ## Tools
 Laser Cutter for engraving and cutting
 Glue Gun
@@ -47,3 +50,10 @@ Neopixel LED strips - D1,D2,D3,D4.
 
 ## References
 RFID.h from pkourany(https://github.com/pkourany/RC522_RFID)
+
+## Image and Video
+
+(https://cloud.githubusercontent.com/assets/21200411/21118546/523ce722-c08c-11e6-8bc8-ead186e66326.jpeg)
+
+https://youtu.be/1rxCyY9-Ofo
+
