@@ -1,4 +1,4 @@
-# Ambient-Display
+# Save your food Ambient-Display
 ## Introduction
 How many times have you opened the fridge, taken out the milk, peeked at the expiration date and then realized that it expired a day before or few days ago? You end up wasting food and money by throwing out spoiled food. The perishable food items in the fridge expires soon if you forget to use it. There needs to be some way that helps to reduce the food wastage by indicating that the item will expire soon and it needs to be used. 
 ## About The Project
@@ -55,5 +55,5 @@ RFID.h from pkourany(https://github.com/pkourany/RC522_RFID)
 ![whatsapp image 2016-12-12 at 3 36 49 pm](https://cloud.githubusercontent.com/assets/21200411/21118546/523ce722-c08c-11e6-8bc8-ead186e66326.jpeg)
 
 
-https://youtu.be/1rxCyY9-Ofo
+https://youtu.be/6RvflyssqOc
 
